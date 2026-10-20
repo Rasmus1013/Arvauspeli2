@@ -5,7 +5,7 @@ public class Arvauspeli {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
-        String secret = "Seppo";
+        String secret = "Ismo";
         String guess = "";
 
         System.out.println("Arvaa nimeni!");
