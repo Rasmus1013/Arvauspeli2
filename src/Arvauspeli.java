@@ -18,7 +18,7 @@ public class Arvauspeli {
                 System.out.println("Oikein!.");
                 break;
             } else {
-                System.out.println("Väärin!");
+                System.out.println("Väärin, yritä uudestaan!");
             }
         }
 
