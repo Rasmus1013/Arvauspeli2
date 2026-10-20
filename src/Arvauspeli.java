@@ -11,7 +11,7 @@ public class Arvauspeli {
         System.out.println("Arvaa nimeni!");
 
         while (true) {
-            System.out.print("Arvaus: ");
+            System.out.print("Arvauksesi on?:");
             guess = in.nextLine();
 
             if (guess.equalsIgnoreCase(secret)) {
